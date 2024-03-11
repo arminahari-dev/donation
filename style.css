@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(39, 134, 138);
+  text-align: center;
+  color: aliceblue;
+}
+
+div {
+  height: 100vh;
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+p {
+  font-size: 19px;
+}
+span{
+    font-weight: bolder;
+}
